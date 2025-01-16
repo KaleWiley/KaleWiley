@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data manipulation and visualization
 - 🌱 I’m currently learning Generative AI models
 - 📫 How to reach me: kaletwiley@gmail.com
-- ⚡ Fun fact: I love exercize
+- ⚡ Fun fact: I have run three marathons
 
 <!---
 KaleWiley/KaleWiley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
